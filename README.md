@@ -13,3 +13,4 @@ Note: I did all this with Burp Suite Pro on my Windows 10 machine and am using a
 FOLLOW THIS LINK FOR INDETAILED OVERVIEW:
 
 https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/
+
